@@ -1,11 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Sharafat_Scientific_Calculator</string>
-    <string name="square_root_symbol">\u221a</string>
-    <string name="cube_root_symbol">\u221B</string>
-    <string name="fourth_root_symbol">\u221a</string>
-    <string name="pie_symbol">\u03C0</string>
-    <string name="xsquare">x\u00B2</string>
-    <string name="xcube">x\u00B3</string>
-    <string name="exponent">e\u00B0</string>
-    <string name="dividesymbol">x\u246B</string>
+	<string name="app_name">Calculator</string>
+	<string name="value_1">Value 1</string>
+	<string name="value_2">Value 2</string>
+	<string name="resultIs">The result is:</string>
+	<string name="backspace"> &lt;&lt; </string>
+	<string name="zeroDivision">Not possible to divide by zero</string>
+	<string name="basic">Basic</string>
+	<string name="complex">Complex</string>
 </resources>
